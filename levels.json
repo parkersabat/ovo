@@ -40,5 +40,11 @@
     "lang": "community",
     "textScale": 1,
     "levels": [49, 52]
+  },
+  {
+    "name": "One To Ten levels",
+    "lang": "onetotenlevels",
+    "textScale": 1,
+    "levels": [1, 10]
   }
 ]
